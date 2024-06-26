@@ -1,0 +1,8 @@
+C:\Users\SHAHRIAR\Desktop\c#\merged with abstraction\bin\Debug\merged with abstraction.exe.config
+C:\Users\SHAHRIAR\Desktop\c#\merged with abstraction\bin\Debug\merged with abstraction.exe
+C:\Users\SHAHRIAR\Desktop\c#\merged with abstraction\bin\Debug\merged with abstraction.pdb
+C:\Users\SHAHRIAR\Desktop\c#\merged with abstraction\obj\Debug\merged with abstraction.csproj.AssemblyReference.cache
+C:\Users\SHAHRIAR\Desktop\c#\merged with abstraction\obj\Debug\merged with abstraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHAHRIAR\Desktop\c#\merged with abstraction\obj\Debug\merged with abstraction.csproj.CoreCompileInputs.cache
+C:\Users\SHAHRIAR\Desktop\c#\merged with abstraction\obj\Debug\merged with abstraction.exe
+C:\Users\SHAHRIAR\Desktop\c#\merged with abstraction\obj\Debug\merged with abstraction.pdb
